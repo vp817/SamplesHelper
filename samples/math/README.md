@@ -1,5 +1,5 @@
 # math
-To compile a sample type `cmake -DSAMPLEB_EXAMPLE_NAME=ExampleA .`
+To compile an example type `cmake -DMATG_EXAMPLE_NAME=ExampleA .`
 
 Replace `ExampleA` to the name of your sample.
 
